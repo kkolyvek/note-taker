@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Note Taker</strong></h1>
 
-<h2 align="center"><a href="https://kk-note-taker-site.herokuapp.com" target="_blank">Deployed Site</a></h2>
+<h2 align="center"><a href="https://kk-note-taker-site.herokuapp.com">Deployed Site</a></h2>
 
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/kkolyvek/note-taker">
@@ -20,7 +20,21 @@ An application to write and save notes.
 
 ## Installation
 
+The site is deployed on [heroku](https://kk-note-taker-site.herokuapp.com)! If you'd like to fork this repository and run the server locally, make sure you have [Node.js](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/) installed. You can then run
+
+> `npm i`
+
+to install the required dependencies, followed by
+
+> `node server.js`
+
+to boot the server on localhost port 3001.
+
 ## Usage
+
+This site allows the user to write, save, and delete new comments. Existing notes cannot be edited, only deleted. See video below to preview site functionality.
+
+> ![Site Demo](./assets/images/note-taker-preview.gif)
 
 ## License
 
