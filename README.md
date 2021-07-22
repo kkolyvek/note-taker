@@ -1,5 +1,7 @@
 <h1 align="center"><strong>Note Taker</strong></h1>
 
+<h2 align="center"><a href="https://kk-note-taker-site.herokuapp.com" target="_blank">Deployed Site</a></h2>
+
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/kkolyvek/note-taker">
   <img src="https://img.shields.io/badge/License-Unlicensed-blue.svg">
